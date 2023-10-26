@@ -1,0 +1,12 @@
+sphinx
+furo
+myst_parser
+sphinx_remove_toctrees
+sphinx_autodoc_typehints
+sphinx_design
+sphinx_copybutton
+urllib3<=1.26.15
+nbsphinx
+nbsphinx_link
+sphinx_gallery
+sphinx_tags
