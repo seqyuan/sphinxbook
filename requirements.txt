@@ -1,3 +1,4 @@
+pandas
 sphinx
 furo
 myst_parser
