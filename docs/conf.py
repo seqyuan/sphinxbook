@@ -58,6 +58,14 @@ html_theme_options = {
         "admonition-title-font-size": "var(--font-size-normal)",
         "code-font-size": "var(--font-size--small)",
     },
+    "footer_icons": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/annoroad/anno_papaer",
+            "html": "",
+            "class": "fa-brands fa-solid fa-github fa-2x",
+        },
+    ],
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
